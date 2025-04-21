@@ -45,5 +45,9 @@ The aim of this project is to demonstrate how to use UiPath Studio to:
    - After clicking **OK** on the Message Box, the automation will complete.
 ---
 ### CODE:
+![Screenshot 2025-04-21 105444](https://github.com/user-attachments/assets/59c17dde-3ccf-44f7-be07-08ff887236ac)
+
+
 ---
 ### OUTPUT:
+![Screenshot 2025-04-21 104230](https://github.com/user-attachments/assets/fef11c55-a3dc-4e4e-8053-654d469d66ad)
